@@ -1,0 +1,12 @@
+GPU,0
+batch_size,256
+dataset,yelp_10core_0823
+decay,1e-05
+early_stop_criterion,10
+epochs,30
+factor_num,32
+layers,[64, 32, 16]
+lr,0.0001
+seed,10
+test_num_ns,30
+train_num_ns,30

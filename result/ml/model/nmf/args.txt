@@ -1,0 +1,13 @@
+GPU,2
+batch_size,256
+data_folder,extracted_ml-1m
+dataset,extracted_ml-1m
+decay,1e-05
+early_stop_criterion,50
+epochs,200
+factor_num,64
+layers,[128, 64, 32]
+lr,0.001
+seed,10
+test_num_ns,100
+train_num_ns,100
